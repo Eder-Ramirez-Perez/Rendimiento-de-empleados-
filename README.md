@@ -37,4 +37,3 @@ El análisis proporciona información clave para mejorar la gestión del talento
 - La **distribución salarial** puede influir en la percepción de equidad dentro de la empresa.
 - La **fuente de reclutamiento** impacta directamente en el desempeño de los empleados.
 
-**Implementar estrategias basadas en estos hallazgos puede ayudar a mejorar la retención, productividad y rendimiento general de la empresa. 🚀**
